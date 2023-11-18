@@ -2,7 +2,7 @@
 in console recipe manager that parses a .txt recipe list, searches fastest prep time and lists ingredients. 
 
 
-when the appication is run please type the .txt file name exaclty. 
+when the appication is run please type the .txt file name exactly. 
 default already added test recipe list is recipes.txt
 
 
